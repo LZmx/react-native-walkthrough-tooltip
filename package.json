@@ -38,11 +38,11 @@
     "eslint": "4.19.1",
     "jest": "22.4.4",
     "react": "^16.3.2",
-    "react-dom": "16.3.3",
+    "react-dom": "^16.3.3",
     "react-native": "^0.55.3"
   },
   "peerDependencies": {
-    "@types/react": ">=16.8.24 <18"
+    "@types/react": ">=16.8.24"
   },
   "jest": {
     "preset": "react-native",
